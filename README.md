@@ -15,7 +15,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 ## Program:
 ```
-
+![Alt text](ml11(!)-1.png)
 /*
 Program to implement the SVM For Spam Mail Detection..
 Developed by: 
@@ -25,7 +25,7 @@ RegisterNumber:
 
 ## Output:
 ![SVM For Spam Mail Detection](sam.png)
-
+![Alt text](ml11(2)-1.png)
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
