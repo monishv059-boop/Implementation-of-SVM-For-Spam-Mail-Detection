@@ -11,8 +11,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 1. Import required libraries
 Import necessary Python libraries such as pandas, numpy, sklearn, and train_test_split.
 2. Read the email dataset containing email messages and labels (spam or ham) using pandas.
-3.Convert text data into numerical form using CountVectorizer or TF-IDF Vectorizer.
-Remove unnecessary characters or stop words if needed 
+3.Convert text data into numerical form using CountVectorizer or TF-IDF Vectorizer.Remove unnecessary characters or stop words if needed 
 4. Calculate the accuracy of the model using accuracy_score().
 
 ## Program:
